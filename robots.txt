@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.arunodhayanannamalai.com/sitemap.xml
+
+Sitemap: https://kavyasrinivasan1956-cmyk.github.io/arunodhayan-apex/sitemap.xml
